@@ -1,0 +1,325 @@
+2020-05-08 18:10:24 INFO  BaseUtil:83 - src/main/resources/properties_files/config/common.properties
+2020-05-08 18:10:24 INFO  TestBaseWeb:36 - Initiate Test Suite..
+2020-05-08 18:10:24 INFO  TestBaseWeb:40 - browserName found for this execution is: chrome
+2020-05-08 18:10:25 INFO  BaseUtil:83 - src/main/resources/properties_files/global/common.properties
+2020-05-08 18:10:25 INFO  BaseUtil:83 - src/main/resources/properties_files/global/common.properties
+2020-05-08 18:10:25 INFO  TestBaseWeb:45 - Global test properties intialized.
+2020-05-08 18:10:33 INFO  TestBaseWeb:49 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (4349e60956f3f1951716ea9e5e60b83e)
+2020-05-08 18:10:33 INFO  TestBaseWeb:51 - Default wait assigned is 20 seconds.
+2020-05-08 18:11:53 INFO  BaseUtil:83 - src/main/resources/properties_files/config/common.properties
+2020-05-08 18:11:53 INFO  TestBaseWeb:36 - Initiate Test Suite..
+2020-05-08 18:11:53 INFO  TestBaseWeb:40 - browserName found for this execution is: chrome
+2020-05-08 18:11:53 INFO  BaseUtil:83 - src/main/resources/properties_files/global/common.properties
+2020-05-08 18:11:53 INFO  BaseUtil:83 - src/main/resources/properties_files/global/common.properties
+2020-05-08 18:11:53 INFO  TestBaseWeb:45 - Global test properties intialized.
+2020-05-08 18:11:58 INFO  TestBaseWeb:49 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (bcbe1c003006b8e075465eae69fe7c37)
+2020-05-08 18:11:58 INFO  TestBaseWeb:51 - Default wait assigned is 20 seconds.
+2020-05-08 18:15:15 INFO  BaseUtil:83 - src/main/resources/properties_files/config/common.properties
+2020-05-08 18:15:15 INFO  TestBaseWeb:36 - Initiate Test Suite..
+2020-05-08 18:15:15 INFO  TestBaseWeb:40 - browserName found for this execution is: chrome
+2020-05-08 18:15:15 INFO  BaseUtil:83 - src/main/resources/properties_files/global/common.properties
+2020-05-08 18:15:15 INFO  BaseUtil:83 - src/main/resources/properties_files/global/common.properties
+2020-05-08 18:15:15 INFO  TestBaseWeb:45 - Global test properties intialized.
+2020-05-08 18:15:20 INFO  TestBaseWeb:49 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (c81a1391c2c9191952bc1af0ef3394ca)
+2020-05-08 18:15:20 INFO  TestBaseWeb:51 - Default wait assigned is 20 seconds.
+2020-05-08 18:21:08 INFO  BaseUtil:83 - src/main/resources/properties_files/config/common.properties
+2020-05-08 18:21:08 INFO  TestBaseWeb:36 - Initiate Test Suite..
+2020-05-08 18:21:08 INFO  TestBaseWeb:40 - browserName found for this execution is: chrome
+2020-05-08 18:21:08 INFO  BaseUtil:83 - src/main/resources/properties_files/global/common.properties
+2020-05-08 18:22:02 INFO  BaseUtil:83 - src/main/resources/properties_files/config/common.properties
+2020-05-08 18:22:02 INFO  TestBaseWeb:36 - Initiate Test Suite..
+2020-05-08 18:22:02 INFO  TestBaseWeb:40 - browserName found for this execution is: chrome
+2020-05-08 18:22:02 INFO  BaseUtil:83 - src/main/resources/properties_files/global/common.properties
+2020-05-08 18:22:02 INFO  TestBaseWeb:45 - Global test properties intialized.
+2020-05-08 18:22:07 INFO  TestBaseWeb:49 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (6f67210939b3be72d14f10efab5ba524)
+2020-05-08 18:22:07 INFO  TestBaseWeb:51 - Default wait assigned is 20 seconds.
+2020-05-08 18:31:04 INFO  TestBaseWeb:36 - Initiate Test Suite..
+2020-05-08 18:31:04 INFO  TestBaseWeb:40 - browserName found for this execution is: chrome
+2020-05-08 18:31:09 INFO  TestBaseWeb:47 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (11b3de0b3ca3c6132bf53a5eaea63857)
+2020-05-08 18:31:09 INFO  TestBaseWeb:49 - Default wait assigned is 20 seconds.
+2020-05-08 19:03:34 INFO  TestBaseWeb:36 - Initiate Test Suite..
+2020-05-08 19:03:34 INFO  TestBaseWeb:40 - browserName found for this execution is: chrome
+2020-05-08 19:04:10 INFO  TestBaseWeb:36 - Initiate Test Suite..
+2020-05-08 19:04:10 INFO  TestBaseWeb:40 - browserName found for this execution is: chrome
+2020-05-08 19:06:40 INFO  TestBaseWeb:36 - Initiate Test Suite..
+2020-05-08 19:06:40 INFO  TestBaseWeb:40 - browserName found for this execution is: chrome
+2020-05-08 19:07:09 INFO  TestBaseWeb:47 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (696affb5c025860407d16f2e342f5df4)
+2020-05-08 19:07:09 INFO  TestBaseWeb:49 - Default wait assigned is 20 seconds.
+2020-05-08 19:12:14 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-08 19:12:14 INFO  TestBaseMobile:43 - Platform found for this execution is: android
+2020-05-08 19:12:14 INFO  TestBaseMobile:48 - Global test properties intialized.
+2020-05-08 19:12:14 INFO  BaseUtil:121 - Config intialized for android platform.
+2020-05-08 19:16:45 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-08 19:16:45 INFO  TestBaseMobile:43 - Platform found for this execution is: android
+2020-05-08 19:16:45 INFO  TestBaseMobile:48 - Global test properties intialized.
+2020-05-08 19:16:45 INFO  BaseUtil:121 - Config intialized for android platform.
+2020-05-08 19:17:16 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-08 19:17:16 INFO  TestBaseMobile:43 - Platform found for this execution is: android
+2020-05-08 19:17:16 INFO  TestBaseMobile:48 - Global test properties intialized.
+2020-05-08 19:19:52 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-08 19:19:52 INFO  TestBaseMobile:43 - Platform found for this execution is: android
+2020-05-08 19:19:52 INFO  TestBaseMobile:48 - Global test properties intialized.
+2020-05-08 19:19:52 INFO  BaseUtil:121 - Config intialized for android platform.
+2020-05-08 19:20:56 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, appActivity=com.zelo.customer.view.activity.SplashActivity, appPackage=com.zelo.customer.stage, appWaitActivity=com.zelo.customer.view.activity.SplashActivity, appWaitPackage=com.zelo.customer.stage, autoAcceptAlerts=true, databaseEnabled=false, desired={platformName=android, app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, autoAcceptAlerts=true, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, warnings={}, webStorageEnabled=false}
+2020-05-08 19:20:56 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-08 19:20:56 INFO  HomePageBeforeLogin:18 - Login test properties intialized.
+2020-05-08 19:20:57 INFO  HomePageBeforeLogin:26 - TC_01_Verify_GetStarted_Button
+2020-05-08 20:24:20 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-08 20:24:20 INFO  TestBaseMobile:43 - Platform found for this execution is: android
+2020-05-08 20:24:20 INFO  TestBaseMobile:48 - Global test properties intialized.
+2020-05-08 20:24:20 INFO  BaseUtil:121 - Config intialized for android platform.
+2020-05-08 20:24:35 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, appActivity=com.zelo.customer.view.activity.SplashActivity, appPackage=com.zelo.customer.stage, appWaitActivity=com.zelo.customer.view.activity.SplashActivity, appWaitPackage=com.zelo.customer.stage, autoAcceptAlerts=true, databaseEnabled=false, desired={platformName=android, app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, autoAcceptAlerts=true, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, warnings={}, webStorageEnabled=false}
+2020-05-08 20:24:35 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-08 20:24:35 INFO  HomePageBeforeLogin:18 - Login test properties intialized.
+2020-05-08 20:24:35 INFO  HomePageBeforeLogin:26 - TC_01_Verify_GetStarted_Button
+2020-05-08 20:28:31 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-08 20:28:31 INFO  TestBaseMobile:43 - Platform found for this execution is: android
+2020-05-08 20:28:31 INFO  TestBaseMobile:48 - Global test properties intialized.
+2020-05-08 20:28:51 INFO  BaseUtil:121 - Config intialized for android platform.
+2020-05-08 20:29:06 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, appActivity=com.zelo.customer.view.activity.SplashActivity, appPackage=com.zelo.customer.stage, appWaitActivity=com.zelo.customer.view.activity.SplashActivity, appWaitPackage=com.zelo.customer.stage, autoAcceptAlerts=true, databaseEnabled=false, desired={platformName=android, app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, autoAcceptAlerts=true, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, warnings={}, webStorageEnabled=false}
+2020-05-08 20:29:06 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-08 20:29:06 INFO  HomePageBeforeLogin:18 - Login test properties intialized.
+2020-05-08 20:29:06 INFO  HomePageBeforeLogin:26 - TC_01_Verify_GetStarted_Button
+2020-05-08 20:45:39 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-08 20:45:39 INFO  TestBaseMobile:43 - Platform found for this execution is: android
+2020-05-08 20:45:39 INFO  TestBaseMobile:48 - Global test properties intialized.
+2020-05-08 20:45:39 INFO  BaseUtil:121 - Config intialized for android platform.
+2020-05-08 20:45:52 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, appActivity=com.zelo.customer.view.activity.SplashActivity, appPackage=com.zelo.customer.stage, appWaitActivity=com.zelo.customer.view.activity.SplashActivity, appWaitPackage=com.zelo.customer.stage, autoAcceptAlerts=true, databaseEnabled=false, desired={platformName=android, app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, autoAcceptAlerts=true, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, warnings={}, webStorageEnabled=false}
+2020-05-08 20:45:52 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-08 20:45:52 INFO  HomePageBeforeLogin:18 - Login test properties intialized.
+2020-05-08 20:45:52 INFO  HomePageBeforeLogin:26 - TC_01_Verify_GetStarted_Button
+2020-05-08 20:53:51 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-08 20:53:51 INFO  TestBaseMobile:43 - Platform found for this execution is: android
+2020-05-08 20:53:51 INFO  TestBaseMobile:48 - Global test properties intialized.
+2020-05-08 20:53:51 INFO  BaseUtil:121 - Config intialized for android platform.
+2020-05-08 20:54:05 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, appActivity=com.zelo.customer.view.activity.SplashActivity, appPackage=com.zelo.customer.stage, appWaitActivity=com.zelo.customer.view.activity.SplashActivity, appWaitPackage=com.zelo.customer.stage, autoAcceptAlerts=true, databaseEnabled=false, desired={platformName=android, app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, autoAcceptAlerts=true, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, warnings={}, webStorageEnabled=false}
+2020-05-08 20:54:05 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-08 20:54:05 INFO  HomePageBeforeLogin:18 - Login test properties intialized.
+2020-05-08 20:54:05 INFO  HomePageBeforeLogin:26 - TC_01_Verify_GetStarted_Button
+2020-05-08 21:00:30 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-08 21:00:30 INFO  TestBaseMobile:43 - Platform found for this execution is: android
+2020-05-08 21:00:30 INFO  TestBaseMobile:48 - Global test properties intialized.
+2020-05-08 21:00:30 INFO  BaseUtil:119 - Config intialized for android platform.
+2020-05-08 21:00:44 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, appActivity=com.zelo.customer.view.activity.SplashActivity, appPackage=com.zelo.customer.stage, appWaitActivity=com.zelo.customer.view.activity.SplashActivity, appWaitPackage=com.zelo.customer.stage, autoAcceptAlerts=true, databaseEnabled=false, desired={platformName=android, app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, autoAcceptAlerts=true, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, warnings={}, webStorageEnabled=false}
+2020-05-08 21:00:44 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-08 21:00:44 INFO  HomePageBeforeLogin:18 - Login test properties intialized.
+2020-05-08 21:00:44 INFO  HomePageBeforeLogin:26 - TC_01_Verify_GetStarted_Button
+2020-05-08 21:04:54 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-08 21:04:54 INFO  TestBaseMobile:43 - Platform found for this execution is: android
+2020-05-08 21:04:54 INFO  TestBaseMobile:48 - Global test properties intialized.
+2020-05-08 21:04:54 INFO  BaseUtil:119 - Config intialized for android platform.
+2020-05-08 21:05:08 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, appActivity=com.zelo.customer.view.activity.SplashActivity, appPackage=com.zelo.customer.stage, appWaitActivity=com.zelo.customer.view.activity.SplashActivity, appWaitPackage=com.zelo.customer.stage, autoAcceptAlerts=true, databaseEnabled=false, desired={platformName=android, app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, autoAcceptAlerts=true, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, warnings={}, webStorageEnabled=false}
+2020-05-08 21:05:08 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-08 21:05:08 INFO  HomePageBeforeLogin:18 - Login test properties intialized.
+2020-05-08 21:05:08 INFO  HomePageBeforeLogin:26 - TC_01_Verify_GetStarted_Button
+2020-05-08 21:09:01 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-08 21:09:01 INFO  TestBaseMobile:43 - Platform found for this execution is: android
+2020-05-08 21:09:01 INFO  TestBaseMobile:48 - Global test properties intialized.
+2020-05-08 21:09:01 INFO  BaseUtil:119 - Config intialized for android platform.
+2020-05-08 21:09:14 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, appActivity=com.zelo.customer.view.activity.SplashActivity, appPackage=com.zelo.customer.stage, appWaitActivity=com.zelo.customer.view.activity.SplashActivity, appWaitPackage=com.zelo.customer.stage, autoAcceptAlerts=true, databaseEnabled=false, desired={platformName=android, app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, autoAcceptAlerts=true, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, warnings={}, webStorageEnabled=false}
+2020-05-08 21:09:14 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-08 21:09:14 INFO  HomePageBeforeLogin:18 - Login test properties intialized.
+2020-05-08 21:09:14 INFO  HomePageBeforeLogin:26 - TC_01_Verify_GetStarted_Button
+2020-05-08 21:10:12 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-08 21:10:12 INFO  TestBaseMobile:43 - Platform found for this execution is: android
+2020-05-08 21:10:12 INFO  TestBaseMobile:48 - Global test properties intialized.
+2020-05-08 21:10:12 INFO  BaseUtil:119 - Config intialized for android platform.
+2020-05-08 21:10:27 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, appActivity=com.zelo.customer.view.activity.SplashActivity, appPackage=com.zelo.customer.stage, appWaitActivity=com.zelo.customer.view.activity.SplashActivity, appWaitPackage=com.zelo.customer.stage, autoAcceptAlerts=true, databaseEnabled=false, desired={platformName=android, app=C:\Akarsh\Zolostays\Accionlabs_Automation\src\test\resources\apps\android\app-preprod.debug.apk, autoAcceptAlerts=true, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, warnings={}, webStorageEnabled=false}
+2020-05-08 21:10:27 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-08 21:10:27 INFO  HomePageBeforeLogin:18 - Login test properties intialized.
+2020-05-08 21:10:27 INFO  HomePageBeforeLogin:26 - TC_01_Verify_GetStarted_Button
+2020-05-08 21:18:08 INFO  TestBaseWeb:36 - Initiate Test Suite..
+2020-05-08 21:18:08 INFO  TestBaseWeb:40 - browserName found for this execution is: firefox
+2020-05-08 21:18:20 INFO  TestBaseWeb:47 - Initializing WebDriver with Info: FirefoxDriver: firefox on WINDOWS (54d0309d-a91e-4daa-9e2e-654d103b64d7)
+2020-05-08 21:18:20 INFO  TestBaseWeb:49 - Default wait assigned is 20 seconds.
+2020-05-08 21:20:36 INFO  TestBaseWeb:36 - Initiate Test Suite..
+2020-05-08 21:20:36 INFO  TestBaseWeb:40 - browserName found for this execution is: chrome
+2020-05-08 21:20:42 INFO  TestBaseWeb:47 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (644cbe6dd0081dc4cb6a8f729b332d60)
+2020-05-08 21:20:42 INFO  TestBaseWeb:49 - Default wait assigned is 20 seconds.
+2020-05-08 21:22:52 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-08 21:22:52 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-08 21:22:57 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (fc9c8bc714461543704771c9a3d25ea8)
+2020-05-08 21:22:57 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-08 21:24:10 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-08 21:24:10 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-08 21:24:15 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (45ea20c8bfd399f3d4f0b017becef369)
+2020-05-08 21:24:15 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-08 21:31:15 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-08 21:31:15 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-08 21:31:21 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (bf88c9883ca1671addcd9c5e99c46d16)
+2020-05-08 21:31:21 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-08 21:32:23 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-08 21:32:23 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-08 21:32:28 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (774f7efe289802f336cfbab40ffef369)
+2020-05-08 21:32:28 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-09 01:04:22 INFO  TestBaseMobile:64 - Initiate Test Suite..
+2020-05-09 01:04:22 INFO  TestBaseMobile:69 - browserName found for this execution is: chrome
+2020-05-09 01:04:22 INFO  BaseUtil:120 - Config intialized for android platform.
+2020-05-09 01:05:58 INFO  TestBaseMobile:64 - Initiate Test Suite..
+2020-05-09 01:05:58 INFO  TestBaseMobile:69 - browserName found for this execution is: chrome
+2020-05-09 01:05:58 INFO  BaseUtil:120 - Config intialized for android platform.
+2020-05-09 01:07:01 INFO  TestBaseMobile:64 - Initiate Test Suite..
+2020-05-09 01:07:28 INFO  TestBaseMobile:69 - browserName found for this execution is: chrome
+2020-05-09 01:07:40 INFO  BaseUtil:120 - Config intialized for android platform.
+2020-05-09 01:08:04 INFO  TestBaseMobile:64 - Initiate Test Suite..
+2020-05-09 01:08:04 INFO  TestBaseMobile:69 - browserName found for this execution is: chrome
+2020-05-09 01:08:04 INFO  BaseUtil:120 - Config intialized for android platform.
+2020-05-09 01:08:15 INFO  TestBaseMobile:64 - Initiate Test Suite..
+2020-05-09 01:08:21 INFO  TestBaseMobile:69 - browserName found for this execution is: chrome
+2020-05-09 01:10:42 INFO  TestBaseMobile:64 - Initiate Test Suite..
+2020-05-09 01:11:35 INFO  TestBaseMobile:64 - Initiate Test Suite..
+2020-05-09 01:11:45 INFO  TestBaseMobile:69 - browserName found for this execution is: chrome
+2020-05-09 01:11:54 INFO  BaseUtil:120 - Config intialized for android platform.
+2020-05-09 01:27:53 INFO  TestBaseMobile:66 - Initiate Test Suite..
+2020-05-09 01:27:53 INFO  TestBaseMobile:71 - browserName found for this execution is: chrome
+2020-05-09 01:27:53 INFO  BaseUtil:121 - Config intialized for android platform.
+2020-05-09 01:34:53 INFO  TestBaseMobile:66 - Initiate Test Suite..
+2020-05-09 01:34:53 INFO  TestBaseMobile:71 - browserName found for this execution is: chrome
+2020-05-09 01:34:53 INFO  BaseUtil:122 - Config intialized for android platform.
+2020-05-09 01:37:35 INFO  TestBaseMobile:66 - Initiate Test Suite..
+2020-05-09 01:37:35 INFO  TestBaseMobile:71 - browserName found for this execution is: chrome
+2020-05-09 01:37:35 INFO  BaseUtil:122 - Config intialized for android platform.
+2020-05-09 01:37:58 INFO  TestBaseMobile:78 - Initializing WebDriver with Info: RemoteWebDriver: chrome on LINUX (148f586e-1990-4cb3-a157-95f858dd0d67)
+2020-05-09 01:37:58 INFO  TestBaseMobile:80 - Default wait assigned is 20 seconds.
+2020-05-09 01:37:58 INFO  HomePageBeforeLogin:17 - Login test properties intialized.
+2020-05-09 01:40:16 INFO  TestBaseMobile:66 - Initiate Test Suite..
+2020-05-09 01:40:16 INFO  TestBaseMobile:71 - browserName found for this execution is: chrome
+2020-05-09 01:40:16 INFO  BaseUtil:122 - Config intialized for android platform.
+2020-05-09 01:40:38 INFO  TestBaseMobile:78 - Initializing WebDriver with Info: RemoteWebDriver: chrome on LINUX (2b9de3b3-9fdd-46ba-adef-d912f8597929)
+2020-05-09 01:40:38 INFO  TestBaseMobile:80 - Default wait assigned is 20 seconds.
+2020-05-09 01:41:35 INFO  TestBaseMobile:66 - Initiate Test Suite..
+2020-05-09 01:41:35 INFO  TestBaseMobile:71 - browserName found for this execution is: chrome
+2020-05-09 01:41:35 INFO  BaseUtil:122 - Config intialized for android platform.
+2020-05-09 01:41:57 INFO  TestBaseMobile:78 - Initializing WebDriver with Info: RemoteWebDriver: chrome on LINUX (0558b015-13d0-4196-896c-3c9c136bf135)
+2020-05-09 01:41:57 INFO  TestBaseMobile:80 - Default wait assigned is 20 seconds.
+2020-05-09 02:35:15 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-09 02:35:15 INFO  TestBaseMobile:44 - browserName found for this execution is: chrome
+2020-05-09 02:35:15 INFO  BaseUtil:121 - Config intialized for android platform.
+2020-05-09 02:35:39 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {browserName=chrome, databaseEnabled=false, desired={browserName=chrome, platformName=android, version=8.1.0, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, version=8.1.0, warnings={}, webStorageEnabled=false}
+2020-05-09 02:35:39 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-09 02:51:53 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-09 02:51:53 INFO  TestBaseMobile:44 - browserName found for this execution is: chrome
+2020-05-09 02:51:53 INFO  BaseUtil:119 - Config intialized for android platform.
+2020-05-09 02:52:11 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {browserName=chrome, databaseEnabled=false, desired={browserName=chrome, platformName=android, version=8.1.0, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, version=8.1.0, warnings={}, webStorageEnabled=false}
+2020-05-09 02:52:11 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-09 02:52:27 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-09 02:52:27 INFO  TestBaseMobile:44 - browserName found for this execution is: chrome
+2020-05-09 02:52:27 INFO  BaseUtil:119 - Config intialized for android platform.
+2020-05-09 02:52:45 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {browserName=chrome, databaseEnabled=false, desired={browserName=chrome, platformName=android, version=8.1.0, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, version=8.1.0, warnings={}, webStorageEnabled=false}
+2020-05-09 02:52:45 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-09 02:53:57 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-09 02:53:57 INFO  TestBaseMobile:44 - browserName found for this execution is: chrome
+2020-05-09 02:53:57 INFO  BaseUtil:119 - Config intialized for android platform.
+2020-05-09 02:54:15 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {browserName=chrome, databaseEnabled=false, desired={browserName=chrome, platformName=android, version=8.1.0, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, version=8.1.0, warnings={}, webStorageEnabled=false}
+2020-05-09 02:54:15 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-09 02:55:45 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-09 02:55:45 INFO  TestBaseMobile:44 - browserName found for this execution is: chrome
+2020-05-09 02:55:45 INFO  BaseUtil:119 - Config intialized for android platform.
+2020-05-09 02:56:02 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {browserName=chrome, databaseEnabled=false, desired={browserName=chrome, platformName=android, version=8.1.0, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, version=8.1.0, warnings={}, webStorageEnabled=false}
+2020-05-09 02:56:02 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-09 02:56:22 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-09 02:56:22 INFO  TestBaseMobile:44 - browserName found for this execution is: chrome
+2020-05-09 02:56:22 INFO  BaseUtil:119 - Config intialized for android platform.
+2020-05-09 02:56:39 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {browserName=chrome, databaseEnabled=false, desired={browserName=chrome, platformName=android, version=8.1.0, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, version=8.1.0, warnings={}, webStorageEnabled=false}
+2020-05-09 02:56:39 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-09 02:58:56 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-09 02:58:56 INFO  TestBaseMobile:44 - browserName found for this execution is: chrome
+2020-05-09 02:58:56 INFO  BaseUtil:117 - Config intialized for android platform.
+2020-05-09 02:59:14 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {browserName=chrome, databaseEnabled=false, desired={browserName=chrome, platformName=android, version=8.1.0, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, version=8.1.0, warnings={}, webStorageEnabled=false}
+2020-05-09 02:59:14 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-09 03:00:57 INFO  BaseUtil:205 - Deleted file/folder: C:\Akarsh\Zolostays\Accionlabs_Automation\src\main\resources\2020-05-09_screenshot\09-May-2020__02_59_20AM.png
+2020-05-09 03:00:57 INFO  BaseUtil:205 - Deleted file/folder: C:\Akarsh\Zolostays\Accionlabs_Automation\src\main\resources\2020-05-09_screenshot
+2020-05-09 03:00:57 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-09 03:00:57 INFO  TestBaseMobile:44 - browserName found for this execution is: chrome
+2020-05-09 03:00:57 INFO  BaseUtil:115 - Config intialized for android platform.
+2020-05-09 03:01:14 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {browserName=chrome, databaseEnabled=false, desired={browserName=chrome, platformName=android, version=8.1.0, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, version=8.1.0, warnings={}, webStorageEnabled=false}
+2020-05-09 03:01:14 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-09 03:05:48 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-09 03:05:48 INFO  TestBaseMobile:44 - browserName found for this execution is: chrome
+2020-05-09 03:05:48 INFO  BaseUtil:115 - Config intialized for android platform.
+2020-05-09 03:06:06 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {browserName=chrome, databaseEnabled=false, desired={browserName=chrome, platformName=android, version=8.1.0, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, version=8.1.0, warnings={}, webStorageEnabled=false}
+2020-05-09 03:06:06 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-09 03:07:36 INFO  BaseUtil:188 - Deleted file/folder: C:\Akarsh\Zolostays\Accionlabs_Automation\src\main\resources\2020-05-09_screenshot\09-May-2020__03_06_12AM.png
+2020-05-09 03:07:59 INFO  BaseUtil:188 - Deleted file/folder: C:\Akarsh\Zolostays\Accionlabs_Automation\src\main\resources\2020-05-09_screenshot
+2020-05-09 03:08:12 INFO  TestBaseMobile:39 - Initiate Test Suite..
+2020-05-09 03:08:12 INFO  TestBaseMobile:44 - browserName found for this execution is: chrome
+2020-05-09 03:08:12 INFO  BaseUtil:115 - Config intialized for android platform.
+2020-05-09 03:08:30 INFO  TestBaseMobile:51 - Initializing WebDriver with Info: io.appium.java_client.android.AndroidDriver, Capabilities: {browserName=chrome, databaseEnabled=false, desired={browserName=chrome, platformName=android, version=8.1.0, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, version=8.1.0, warnings={}, webStorageEnabled=false}
+2020-05-09 03:08:30 INFO  TestBaseMobile:53 - Default wait assigned is 20 seconds.
+2020-05-09 12:48:08 INFO  BaseUtil:188 - Deleted file/folder: C:\Akarsh\Zolostays\Accionlabs_Automation\src\main\resources\2020-05-09_screenshot\09-May-2020__03_08_37AM.png
+2020-05-09 12:48:08 INFO  BaseUtil:188 - Deleted file/folder: C:\Akarsh\Zolostays\Accionlabs_Automation\src\main\resources\2020-05-09_screenshot
+2020-05-09 12:48:08 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-09 12:48:08 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-09 12:48:14 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (f391d5f3cf22b65cf82fc358c8a61a8e)
+2020-05-09 12:48:14 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-09 12:54:53 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-09 12:54:53 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-09 12:54:59 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (a5f2fca7cc4e5672cfcdf04beff8cc39)
+2020-05-09 12:54:59 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-09 12:56:20 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-09 12:56:20 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-09 12:56:25 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (df4d1f74b3959ad8eaa0577543417ddd)
+2020-05-09 12:56:25 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-09 13:19:27 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-09 13:19:27 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-09 13:19:32 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (25cdb6630f15470d606f6c8a1bea1eda)
+2020-05-09 13:19:32 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-09 13:20:42 INFO  BaseUtil:188 - Deleted file/folder: C:\Akarsh\Zolostays\Accionlabs_Automation\src\main\resources\2020-05-09_screenshot\09-May-2020__01_19_43PM.png
+2020-05-09 13:20:42 INFO  BaseUtil:188 - Deleted file/folder: C:\Akarsh\Zolostays\Accionlabs_Automation\src\main\resources\2020-05-09_screenshot
+2020-05-09 13:20:42 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-09 13:20:42 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-09 13:21:14 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (00a4d271342ebd3de5c3901c920454ac)
+2020-05-09 13:21:14 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-09 13:23:13 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-09 13:23:13 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-09 13:23:18 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (2287a493fc1aeb2f328713861d731834)
+2020-05-09 13:23:18 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-09 17:38:58 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-09 17:38:58 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-09 17:39:03 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (b380ed49413ede6100aae4d370437b6a)
+2020-05-09 17:39:03 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-09 17:40:23 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-09 17:40:23 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-09 17:40:28 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (3be69f425143cdcf677e66e473e7ba70)
+2020-05-09 17:40:28 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-09 17:43:19 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-09 17:43:19 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-09 17:43:25 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (11636ace31b7eb4e935bf6d436c552bf)
+2020-05-09 17:43:25 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-09 18:10:36 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-09 18:10:36 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-09 18:10:42 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (9bbfc0e69e6d07833b69f8046442c9f7)
+2020-05-09 18:10:42 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-09 18:16:46 INFO  TestBaseWeb:37 - Initiate Test Suite..
+2020-05-09 18:16:46 INFO  TestBaseWeb:41 - browserName found for this execution is: chrome
+2020-05-09 18:16:52 INFO  TestBaseWeb:48 - Initializing WebDriver with Info: ChromeDriver: chrome on WINDOWS (f10d6cd0194c88bc967fbe52ba072b80)
+2020-05-09 18:16:52 INFO  TestBaseWeb:50 - Default wait assigned is 20 seconds.
+2020-05-09 18:55:26 INFO  TestBaseMobile:38 - Initiate Test Suite..
+2020-05-09 18:55:26 INFO  TestBaseMobile:43 - browser found for this execution is: chrome
+2020-05-09 18:55:27 INFO  BaseUtil:116 - Config intialized for android platform.
+2020-05-09 18:57:01 INFO  TestBaseMobile:38 - Initiate Test Suite..
+2020-05-09 18:57:01 INFO  TestBaseMobile:43 - browser found for this execution is: chrome
+2020-05-09 18:57:01 INFO  BaseUtil:116 - Config intialized for android platform.
+2020-05-09 18:57:26 INFO  HomePageMobileView:31 - Current URL is verified
+2020-05-09 18:57:27 ERROR BaseUtil:208 - Element not available 
+2020-05-09 18:57:28 ERROR BaseUtil:208 - Element not available 
+2020-05-09 18:57:28 ERROR BaseUtil:208 - Element not available 
+2020-05-09 19:05:03 INFO  TestBaseMobile:38 - Initiate Test Suite..
+2020-05-09 19:05:03 INFO  TestBaseMobile:43 - browser found for this execution is: chrome
+2020-05-09 19:05:03 INFO  BaseUtil:116 - Config intialized for android platform.
+2020-05-09 19:05:35 INFO  HomePageMobileView:31 - Current URL is verified
+2020-05-09 19:05:36 INFO  BaseUtil:202 - Element [[io.appium.java_client.android.AndroidDriver, Capabilities: {browserName=chrome, databaseEnabled=false, desired={browserName=chrome, platformName=android, version=8.1.0, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, version=8.1.0, warnings={}, webStorageEnabled=false}] -> link text: Discover Law] is displayed
+2020-05-09 19:05:36 ERROR BaseUtil:209 - Element not available 
+2020-05-09 19:05:36 ERROR BaseUtil:209 - Element not available 
+2020-05-09 19:05:37 ERROR BaseUtil:209 - Element not available 
+2020-05-09 19:05:37 INFO  BaseUtil:202 - Element [[io.appium.java_client.android.AndroidDriver, Capabilities: {browserName=chrome, databaseEnabled=false, desired={browserName=chrome, platformName=android, version=8.1.0, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, version=8.1.0, warnings={}, webStorageEnabled=false}] -> link text: Data & Research] is displayed
+2020-05-09 19:05:37 INFO  BaseUtil:202 - Element [[io.appium.java_client.android.AndroidDriver, Capabilities: {browserName=chrome, databaseEnabled=false, desired={browserName=chrome, platformName=android, version=8.1.0, deviceName=ZY322C5BNB}, deviceManufacturer=motorola, deviceModel=Moto G (5S), deviceName=ZY322C5BNB, deviceScreenSize=1080x1920, deviceUDID=ZY322C5BNB, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=8.1.0, takesScreenshot=true, version=8.1.0, warnings={}, webStorageEnabled=false}] -> xpath: //img[@class='branding-block__logo']] is displayed
+2020-05-09 19:36:42 INFO  TestBaseMobile:38 - Initiate Test Suite..
+2020-05-09 19:36:42 INFO  TestBaseMobile:43 - browser found for this execution is: chrome
+2020-05-09 19:36:42 INFO  BaseUtil:116 - Config intialized for android platform.
+2020-05-09 19:37:13 INFO  HomePageMobileView:31 - Current URL is verified
+2020-05-09 19:37:14 ERROR BaseUtil:208 - Element not available 
+2020-05-09 19:56:10 INFO  TestBaseMobile:38 - Initiate Test Suite..
+2020-05-09 19:56:10 INFO  TestBaseMobile:43 - browser found for this execution is: chrome
+2020-05-09 19:56:10 INFO  BaseUtil:116 - Config intialized for android platform.
+2020-05-09 19:56:37 INFO  HomePageMobileView:31 - Current URL is verified

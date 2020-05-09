@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MobileSuite" duration-ms="11740" started-at="2020-05-09T19:56:28 IST" finished-at="2020-05-09T19:56:40 IST">
+    <groups>
+    </groups>
+    <test name="MobileTest" duration-ms="11740" started-at="2020-05-09T19:56:28 IST" finished-at="2020-05-09T19:56:40 IST">
+      <class name="com.accionlabs.test.mobile.HomePageMobileView">
+        <test-method status="PASS" signature="testStart()[pri:0, instance:com.accionlabs.test.mobile.HomePageMobileView@4e718207]" name="testStart" is-config="true" duration-ms="18105" started-at="2020-05-09T19:56:10 IST" finished-at="2020-05-09T19:56:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStart -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.accionlabs.test.mobile.HomePageMobileView@4e718207]" name="beforeTest" is-config="true" duration-ms="9026" started-at="2020-05-09T19:56:28 IST" finished-at="2020-05-09T19:56:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyCurrentUrl()[pri:0, instance:com.accionlabs.test.mobile.HomePageMobileView@4e718207]" name="verifyCurrentUrl" duration-ms="47" started-at="2020-05-09T19:56:37 IST" description="verify the current URL" finished-at="2020-05-09T19:56:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCurrentUrl -->
+        <test-method status="PASS" signature="verifyHomepageLinks()[pri:0, instance:com.accionlabs.test.mobile.HomePageMobileView@4e718207]" name="verifyHomepageLinks" duration-ms="2398" started-at="2020-05-09T19:56:37 IST" description="verify links on the page" finished-at="2020-05-09T19:56:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageLinks -->
+        <test-method status="PASS" signature="verifyLogoDisplay()[pri:0, instance:com.accionlabs.test.mobile.HomePageMobileView@4e718207]" name="verifyLogoDisplay" duration-ms="190" started-at="2020-05-09T19:56:39 IST" description="verify logo" finished-at="2020-05-09T19:56:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoDisplay -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.accionlabs.test.mobile.HomePageMobileView@4e718207]" name="tearDown" is-config="true" duration-ms="1585" started-at="2020-05-09T19:56:40 IST" finished-at="2020-05-09T19:56:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.accionlabs.test.mobile.HomePageMobileView -->
+    </test> <!-- MobileTest -->
+  </suite> <!-- MobileSuite -->
+</testng-results>
