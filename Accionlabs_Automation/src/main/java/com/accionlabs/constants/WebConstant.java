@@ -16,8 +16,13 @@ public final class WebConstant {
 
 	public static final String DEVICE_ANDROID_NAME = "device.android.name";
 	public static final String PLATFORM_ANDROID_VERSION = "platform.android.version";
+	
+	public static final String DEVICE_IOS_NAME = "device.ios.name";
+	public static final String PLATFORM_IOS_VERSION = "platform.ios.version";
+	
 
 	public static final String BROWSER = "browser";
 	
 	public static final String REDIRECTED_URL = "redirectedUrl";
 }
+

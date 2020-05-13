@@ -25,6 +25,7 @@ import com.accionlabs.constants.PathConstants;
 import com.accionlabs.constants.WebConstant;
 
 import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.ios.IOSDriver;
 import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.remote.MobilePlatform;
 
@@ -107,23 +108,19 @@ public class BaseUtil {
     public static WebDriver initializeWebDriverOnMobile(String browserName, String platform) throws Exception{
 
 	DesiredCapabilities capabilities = new DesiredCapabilities();
-	/*if (Boolean.parseBoolean(configProperties.getProperty(WebConstant.RUN_HYBRID))) {
-	    capabilities.setCapability(MobileCapabilityType.AUTO_WEBVIEW, true);
-	}*/
 	String completeURL = BaseUtil.readProperty(WebConstant.APPIUM_DRIVER_URL);
 	URL appiumURL = new URL(completeURL);
 	configProperties.putAll(BaseUtil.readPropertyFile(resourceFilePath, platform));
 	logger.info("Config intialized for " + platform + " platform.");
 	switch (platform.toLowerCase()) {
 	case "ios":
-	    // due to Windows machine limitation, iOS code is commented
-	    /*capabilities.setCapability(MobileCapabilityType.APP, new File(configProperties.getProperty(WebConstant.APP_IOS_PATH)).getAbsolutePath());
-	    capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, configProperties.getProperty(WebConstant.DEVICE_IOS_NAME));
-	    capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, configProperties.getProperty(WebConstant.PLATFORM_IOS_VERSION));
 	    capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME,  MobilePlatform.IOS);
-
-	    webDriver = new IOSDriver<MobileElement>(new URL(completeURL), capabilities);*/
-
+	    capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, 
+		    configProperties.getProperty(WebConstant.DEVICE_IOS_NAME));
+	    capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, 
+		    configProperties.getProperty(WebConstant.PLATFORM_IOS_VERSION));
+	    capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, BrowserType.SAFARI);
+	    webDriver = new IOSDriver<>(new URL(completeURL), capabilities);
 	    break;
 	case "android":
 	    capabilities.setCapability(MobileCapabilityType.BROWSER_NAME,BrowserType.CHROME);
